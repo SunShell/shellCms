@@ -1,0 +1,40 @@
+.spOpContainer {
+    width: 100%;
+    height: auto;
+    padding: 0 20px 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eceeef;
+}
+
+    .spOpContainer .spOpIpt {
+        display: inline-block;
+        width: 15%;
+    }
+
+.spAddForm {
+    padding: 20px;
+}
+
+.spListTable .spListOrder {
+    cursor: pointer;
+}
+
+.spListTable .spListModify {
+    cursor: pointer;
+    font-size: 18px;
+    color: #3097d1;
+}
+
+.spListTable .spListDel {
+    cursor: pointer;
+    font-size: 18px;
+    color: #d9534f;
+}
+
+.spPageBar {
+    padding: 10px 0;
+}
+    .spPageBar > .spCurrentPage {
+        background-color: #0275d8;
+        border-color: #0275d8;
+    }
