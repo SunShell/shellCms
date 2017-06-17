@@ -187,10 +187,10 @@ $(document).ready(function() {
 	 /*	保持footer在最底部
 	 /*----------------------------------*/
 
-	$('.main').resize(function () {
+	/*$('.main').resize(function () {
 		var bodyHeight = $('body').height();
 		console.log(1,bodyHeight);
-    });
+    });*/
 
 	/*-----------------------------------/
 	 /*	修改密码
